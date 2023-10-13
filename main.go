@@ -69,7 +69,6 @@ func main() {
 	// Sampel Input
 	input := []string{
 		"3137",
-		"1367",
 		"2333",
 		"2001",
 	}
